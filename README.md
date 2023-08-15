@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋,  I'm Mauro Magno</h1>
 <h3 align="center">A loved mobile developer</h3>
-<img align="right" alt="Coding" width="400" src="https://discord.com/channels/1140808385483259944/1140808385483259947/1140808990381584496">
+<img align="right" align="top" alt="Coding" width="350" src="https://github.com/magnosith/magnosith/blob/main/mj-pc.png">
 
 - 🔭 I’m currently working on **Open to work in new project!!!**
 
